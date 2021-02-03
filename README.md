@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Laravel
 - 🤔 I’m looking for help with ... Laravel
 - 💬 Ask me about ... Nothing At the moment 😒
-- 📫 How to reach me: ... [Portfolio Website](https://fazleyrabbi.netlify.app)
+- 📫 How to reach me: ... [Portfolio Website](https://fazleyrabbi.me)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am Bengali
