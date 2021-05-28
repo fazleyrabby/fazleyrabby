@@ -9,8 +9,8 @@ on:
 jobs:
   update-readme:
     name: Update this repo's README
-    runs-on: ubuntu-latest
+    runs-on: pop-os
     steps:
-      - uses: athul/waka-readme@master
+      - uses: fazleyrabby/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.13575d21-5a26-4d39-b602-37cb7da19c54 }}
