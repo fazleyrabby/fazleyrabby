@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Fazley Rabbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazleyrabby&show_icons=true&count_private=true)
 
 
-### Skills 
+### Tech Stack  
 
 ![](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
