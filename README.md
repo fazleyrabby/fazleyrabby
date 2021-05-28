@@ -10,3 +10,7 @@ Here are some ideas to get you started:
 - 
 ### Connect With me
 
+
+### Github Stats
+
+[![Fazley's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazleyrabby)](https://github.com/anuraghazra/github-readme-stats)
