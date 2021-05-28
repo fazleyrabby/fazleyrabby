@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 
 ### Skills 
-[](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=blue)
-![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html&logoColor=white&color=darkpurple)
-![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=darkpurple)
-![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=darkpurple)
-![](https://img.shields.io/badge/Mysql-informational?style=flat&logo=mysql&logoColor=white&color=darkpurple)
-![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=laravel&logoColor=white&color=darkpurple)
+[](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Mysql-informational?style=flat&logo=mysql&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=laravel&logoColor=white&color=blueviolet)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
