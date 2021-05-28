@@ -35,10 +35,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
 
 
 
