@@ -1,3 +1,5 @@
+[![Fazleys's GitHub Banner](./cover.gif)](https://fazleyrabby.me)
+
 ### Here is what I am working on 👋
 
 Here are some ideas to get you started:
