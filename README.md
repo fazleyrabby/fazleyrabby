@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Portfolio Website](https://fazleyrabbi.me)
 - 
 ### Connect With me
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat-square&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/fazley__rabby)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fazley-rabby/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-05122A?style=flat-square&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/fazley__rabby)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-05122A?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fazley-rabby/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-05122A?style=flat-square&logo=gmail&logoColor=white&color=0D76A8)](mailto:fazley111@gmail.com)
 
 
