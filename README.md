@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Skills 
 
-[](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=blueviolet)
+[](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&&color=blueviolet)
 ![](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=blueviolet)
