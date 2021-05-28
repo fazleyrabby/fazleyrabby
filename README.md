@@ -11,10 +11,8 @@ Here are some ideas to get you started:
 ### Connect With me
 
 
-### Github Stats
+### Github Stats  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${fazleyrabby}.${https://github.com/fazleyrabby/fazleyrabby})
 
 ![Fazley Rabbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazleyrabby&show_icons=true)
 
 
-
-### Welcome!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${fazleyrabby}.${https://github.com/fazleyrabby/fazleyrabby})
