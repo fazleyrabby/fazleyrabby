@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 ![Fazley Rabbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazleyrabby&show_icons=true&count_private=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fazleyrabby&show_icons=true&hide_border=true&&count_private=true" />
 
 
 <!--START_SECTION:waka-->
