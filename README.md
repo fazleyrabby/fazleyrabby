@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 ### Skills 
 
 [](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3)
-![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass)
+![](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
+![](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)
 ![](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
-![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php)
-![](https://img.shields.io/badge/Mysql-informational?style=flat&logo=mysql)
-![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=laravel)
+![](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)
+![](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 ![](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 
