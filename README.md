@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 ### Vistiors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${fazleyrabby}.${https://github.com/fazleyrabby/fazleyrabby})
+![Visitor Count](https://profile-counter.glitch.me/{fazleyrabby}/count.svg)
