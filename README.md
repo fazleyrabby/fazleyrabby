@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)
 ![](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 ![](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-![](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql&logoColor=1572B6)
+![](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 ![](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
