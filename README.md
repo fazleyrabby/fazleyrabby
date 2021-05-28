@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Portfolio Website](https://fazleyrabbi.me)
 - 
 ### Connect With me
-- name: Profile Readme Stats
-  uses: teoxoy/profile-readme-stats@v1.2
+
