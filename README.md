@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-### Welcome! ![visitors](https://visitor-badge.glitch.me/badge?${fazleyrabby}=${https://github.com/fazleyrabby/fazleyrabby})
+### Welcome! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${fazleyrabby}.${https://github.com/fazleyrabby/fazleyrabby})
