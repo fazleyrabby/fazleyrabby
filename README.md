@@ -17,7 +17,4 @@ Here are some ideas to get you started:
 
 
 
-### Vistiors
-![Visitor Count](https://profile-counter.glitch.me/{fazleyrabby}/count.svg)
-
-
+### Welcome! ![visitors](https://visitor-badge.glitch.me/badge?${fazleyrabby}=${https://github.com/fazleyrabby/fazleyrabby})
