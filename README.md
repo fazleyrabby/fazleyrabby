@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-05122A?style=flat-square&logo=gmail&logoColor=white&color=0D76A8)](mailto:fazley111@gmail.com)
 
 
-### Github Stats ![visitors](https://visitor-badge.glitch.me/badge?page_id=${fazleyrabby}.${https://github.com/fazleyrabby/fazleyrabby})
+### Github Stats 
 
 
 ![Fazley Rabbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazleyrabby&show_icons=true&count_private=true)
