@@ -9,6 +9,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Portfolio Website](https://fazleyrabbi.me)
 - 
 ### Connect With me
-<p align=center>
-  I’m looking for help with Laravel & React
-  </p>
+- name: Profile Readme Stats
+  uses: teoxoy/profile-readme-stats@v1.2
