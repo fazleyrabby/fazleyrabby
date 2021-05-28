@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fazley-rabby/)
 
 
-
+### Github Stats ![visitors](https://visitor-badge.glitch.me/badge?page_id=${fazleyrabby}.${https://github.com/fazleyrabby/fazleyrabby})
 
 
 ![Fazley Rabbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazleyrabby&show_icons=true&count_private=true)
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Skills 
 
-![](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+[](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
 ![](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)
 ![](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
