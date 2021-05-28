@@ -18,7 +18,14 @@ Here are some ideas to get you started:
 
 ![Fazley Rabbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazleyrabby&show_icons=true&count_private=true)
 
+<details>
+<summary>Skills</summary>
 
+[](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
+</details>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
