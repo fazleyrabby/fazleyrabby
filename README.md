@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 
 
 ### Connect With me
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-05122A?style=flat-square&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/fazley__rabby)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-05122A?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fazley-rabby/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-05122A?style=flat-square&logo=gmail&logoColor=white&color=0D76A8)](mailto:fazley111@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fazley__rabby)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazley-rabby/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fazley111@gmail.com)
 
 
 ### Github Stats 
