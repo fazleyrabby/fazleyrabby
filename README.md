@@ -26,19 +26,32 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats-green-three.vercel.app/api/top-langs/?username=fazleyrabby&layout=compact&theme=tokyonight)
 
 
-### Tech Stack  
+### Tech & Tools
 
-![](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)
-![](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
-![](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-![](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
-![](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/MySQL-F05032?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
+![](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
+### OS
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### Code Editors
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 
-
+### Workstation 
+![](https://img.shields.io/badge/LENOVO-330S-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white)
 
 
