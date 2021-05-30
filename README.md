@@ -1,8 +1,8 @@
 [![Fazleys's GitHub Banner](./cov.gif)](https://fazleyrabby.me)
 
-### Here is what I am working on 👋
+### Here are some ideas to get you started: 👋
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Amcoders as Laravel Developer
 - 🌱 I’m currently learning Laravel & React JS
@@ -45,15 +45,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### OS
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Code Editors
+### Workstation & Environment
+![](https://img.shields.io/badge/LENOVO-330S-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white)
+![](https://img.shields.io/badge/Intel-Core_i5_8th_GEN_|_8GB_RAM_|_128GB_SSD-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![](https://img.shields.io/badge/Linux-PRIMARY-ED1C24?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Windows-VM-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
-
-### Workstation 
-![](https://img.shields.io/badge/LENOVO-330S-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white)
-
 
