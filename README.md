@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 
 ![Fazley's GitHub stats](https://github-readme-stats-green-three.vercel.app/api?username=fazleyrabby&count_private=true&theme=tokyonight)
 
+### Languages
+
+![Top Langs](https://github-readme-stats-green-three.vercel.app/api/top-langs/?username=fazleyrabby&layout=compact&theme=tokyonight)
+
+
 ### Tech Stack  
 
 ![](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
