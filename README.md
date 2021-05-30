@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 ### Github Stats 
 
-
-![Fazley Rabbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazleyrabby&show_icons=true&count_private=true)
-
+![Fazley's GitHub stats](https://github-readme-stats-green-three.vercel.app/api?username=fazleyrabby&count_private=true&theme=tokyonight)
 
 ### Tech Stack  
 
