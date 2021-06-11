@@ -1,4 +1,4 @@
-[![Fazleys's GitHub Banner](./cov.gif)](https://fazleyrabby.me)
+[![Fazleys's GitHub Banner](./cov.gif)](https://fazleyrabbi.me)
 
 ### Here are some ideas to get you started: 
 
