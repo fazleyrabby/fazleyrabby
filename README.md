@@ -1,5 +1,3 @@
-[![Fazleys's GitHub Banner](./cov.gif)](https://fazleyrabbi.me)
-
 ### Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on Amcoders as Laravel Developer
