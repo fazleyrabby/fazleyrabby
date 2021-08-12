@@ -13,12 +13,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fazley111@gmail.com)
 
 
-### Github Stats 
-![Fazley's GitHub stats](https://github-readme-stats-green-three.vercel.app/api?username=fazleyrabby&count_private=true&theme=tokyonight)
-
-### Languages
-![Top Langs](https://github-readme-stats-green-three.vercel.app/api/top-langs/?username=fazleyrabby&layout=compact&theme=tokyonight)
-
 ### Tech & Tools
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
