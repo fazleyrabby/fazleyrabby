@@ -1,25 +1,16 @@
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fazleyrabby&label=Profile%20views&color=0e75b6&style=flat" alt="fazleyrabby" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazleyrabby&label=Profile%20views&color=0e75b6&style=flat" alt="fazleyrabby" /> </p> -->
 
 - 🔭 I’m currently working on [BS5 Admin Dashboard Boilerplate](https://fazleyrabbi.me/admin-starter-bs5)
-
 - 🌱 I’m currently learning **React**
-
 - 👯 I’m looking to collaborate on **Laravel**
-
 - 🤝 I’m looking for help with **React**
-
 - 👨‍💻 All of my projects are available at [https://fazleyrabbi.me/](https://fazleyrabbi.me/)
-
 - 📝 I regularly write articles on [https://fazleyrabbi.me/blog/](https://fazleyrabbi.me/blog/)
-
 - 💬 Ask me about **Laravel, PHP**
-
 - 📫 How to reach me **fazley111@gmail.com**
-
 - 📄 Know about my experiences [https://fazleyrabbi.me/assets/cv.pdf](https://fazleyrabbi.me/assets/cv.pdf)
-
 - ⚡ Fun fact **I am bengali**
 
 <h3 align="left">Connect with me:</h3>
