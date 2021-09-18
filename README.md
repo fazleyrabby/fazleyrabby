@@ -2,7 +2,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazleyrabby&label=Profile%20views&color=0e75b6&style=flat" alt="fazleyrabby" /> </p> -->
 
-- 🔭 I’m currently working on [BS5 Admin Dashboard Boilerplate](https://fazleyrabbi.me/admin-starter-bs5)
+- 🔭 I’m currently working on [Bootstrap 5 Open Source Admin Dashboard](https://fazleyrabbi.me/admin-starter-bs5)
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **Laravel**
 - 🤝 I’m looking for help with **React**
