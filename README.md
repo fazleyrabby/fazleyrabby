@@ -42,9 +42,9 @@
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=fazleyrabby&theme=tokyonight)
  -->
 
-### DevCard
+<!-- ### DevCard
 <div align="left"> 
 <img src="https://github.com/fazleyrabby/fazleyrabby/blob/master/devcard.svg" width="30%">
 </div>
-
+ -->
 
