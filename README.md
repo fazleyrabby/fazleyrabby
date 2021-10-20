@@ -11,7 +11,7 @@
 - 📝 I regularly write articles on [https://fazleyrabbi.me/blog/](https://fazleyrabbi.me/blog/)
 - 💬 Ask me about **Laravel, PHP**
 - 📫 How to reach me **fazley111@gmail.com**
-- 📄 Know about my experiences [https://fazleyrabbi.me/assets/cv.pdf](https://fazleyrabbi.me/assets/cv.pdf)
+- 📄 Know about my experiences [https://fazleyrabbi.me/assets/cv.pdf](https://drive.google.com/file/d/14xLa6boGcakqvMTDeL0A7lT0rNJQoXm2/view?usp=sharing)
 - ⚡ Fun fact **I am bengali**
 
 
