@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **React & Tailwind CSS**
 - 👯 I’m looking to collaborate on **Laravel**
 - 🤝 I’m looking for help with **React**
-- 👨‍💻 All of my projects are available at [https://fazleyrabbi.netlify.app/](https://fazleyrabbi.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://fazleyrabbi.xyz](https://fazleyrabbi.xyz)
 - 💬 Ask me about **Laravel, PHP**
 - 📫 How to reach me **fazley111@gmail.com**
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1lYJ5n8vDHfBt2rnzgv2AzjNkxX9OyG_V/view?usp=sharing)
