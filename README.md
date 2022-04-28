@@ -46,4 +46,6 @@
 <img src="https://github.com/fazleyrabby/fazleyrabby/blob/master/devcard.svg" width="30%">
 </div>
  -->
+ 
+ ![](https://komarev.com/ghpvc/?username=fazleyrabby)
 
