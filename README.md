@@ -47,5 +47,5 @@
 </div>
  -->
  
- ![](https://komarev.com/ghpvc/?username=fazleyrabby)
+ ![](https://komarev.com/ghpvc/?username=fazleyrabby&label=PROFILE+VIEWS)
 
