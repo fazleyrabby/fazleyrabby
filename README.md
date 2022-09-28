@@ -3,15 +3,15 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazleyrabby&label=Profile%20views&color=0e75b6&style=flat" alt="fazleyrabby" /> </p> -->
 
 
-- 🔭 I’m currently working on EF-System Backend
-- 🌱 I’m currently learning **React & Tailwind CSS**
-- 👯 I’m looking to collaborate on **Laravel**
-- 🤝 I’m looking for help with **React**
-- 👨‍💻 All of my projects are available at [https://fazleyrabbi.xyz](https://fazleyrabbi.xyz)
-- 💬 Ask me about **Laravel, PHP**
+<!-- - 🔭 I’m currently working on EF-System Backend -->
+<!-- - 🌱 I’m currently learning **React & Tailwind CSS** -->
+<!-- - 👯 I’m looking to collaborate on **Laravel** -->
+<!-- - 🤝 I’m looking for help with **React** -->
+<!-- - 💬 Ask me about **Laravel, PHP** -->
+- 👨‍💻 Portfolio [https://fazleyrabbi.xyz](https://fazleyrabbi.xyz)
 - 📫 How to reach me **fazley111@gmail.com**
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1hygjZWNdm1k73QRF-sbOjh84QjcYBy7O/view)
-- ⚡ Fun fact **I am bengali**
+<!-- - ⚡ Fun fact **I am bengali** -->
 
 
 
