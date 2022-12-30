@@ -11,7 +11,7 @@
 - 👨‍💻 Portfolio [https://fazleyrabbi.xyz](https://fazleyrabbi.xyz)
 - 📫 How to reach me **fazley111@gmail.com**
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1hygjZWNdm1k73QRF-sbOjh84QjcYBy7O/view)
-- 🔭 I’m currently working on React | Node | Mysql | Laravel for improvement
+- 🔭 I’m currently working on MERN+Laravel for personal improvement
 <!-- - ⚡ Fun fact **I am bengali** -->
 
 
