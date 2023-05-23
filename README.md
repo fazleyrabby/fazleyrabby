@@ -10,7 +10,7 @@
 <!-- - 💬 Ask me about **Laravel, PHP** -->
 - 👨‍💻 Portfolio [https://fazleyrabbi.xyz](https://fazleyrabbi.xyz)
 - 📫 How to reach me **fazley111@gmail.com**
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1hygjZWNdm1k73QRF-sbOjh84QjcYBy7O/view)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/15ACMckvXX-bOe_Viku15YmxVfoai6xRU/view?usp=share_link)
 - 🔭 I’m currently working on a POS system beside office project
 <!-- - ⚡ Fun fact **I am bengali** -->
 
