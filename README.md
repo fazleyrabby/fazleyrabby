@@ -52,7 +52,7 @@
 </p>
 
 
-<a href="https://app.daily.dev/fazley111"><img src="./devcard.png" width="652" alt="Md. Fazley Rabbi's Dev Card"/></a>
+<a href="https://app.daily.dev/fazley111"><img src="./devcard.png" width="300" alt="Md. Fazley Rabbi's Dev Card"/></a>
 
 <!-- ### DevCard
 <div align="left"> 
