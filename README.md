@@ -45,10 +45,11 @@
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=fazleyrabby&theme=tokyonight)
 
 -->
+
 <p align="left">
-  <img width="45%" src="https://github-readme-stats-green-three.vercel.app/api?username=fazleyrabby&count_private=true&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=fazleyrabby&show_icons=true&theme=tokyonight" />
   &nbsp;&nbsp;&nbsp;
-  <img width="45%" src="https://github-readme-streak-stats-henna-xi.vercel.app?user=fazleyrabby&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats-henna-xi.vercel.app?user=fazleyrabby&theme=tokyonight" />
 </p>
 
 
