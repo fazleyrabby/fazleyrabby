@@ -11,7 +11,7 @@
 - 👨‍💻 Portfolio [https://fazleyrabbi.xyz](https://fazleyrabbi.xyz)
 - 📫 How to reach me **fazley111@gmail.com**
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1OKkIKXabCV5AZidDxPnoERFfPsiLoSqK/view)
-- 🔭 I’m currently working on **Larabrix**
+- 🔭 I’m currently working on **Larabrix** (Laravel & Alpine)
 <!-- - ⚡ Fun fact **I am bengali** -->
 
 
