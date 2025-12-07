@@ -47,7 +47,7 @@
 -->
 
 <p align="left">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=fazleyrabby&show_icons=true&theme=tokyonight" />
+  <!-- <img width="45%" src="https://github-readme-stats.vercel.app/api?username=fazleyrabby&show_icons=true&theme=tokyonight" /> -->
   &nbsp;&nbsp;&nbsp;
   <img width="48%" src="https://github-readme-streak-stats-henna-xi.vercel.app?user=fazleyrabby&theme=tokyonight" />
 </p>
