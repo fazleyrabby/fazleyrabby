@@ -42,6 +42,14 @@ Curated prompt collection for AI agents
 
 ---
 
+Hujjah — Local-First Scholarly Intelligence
+
+* Offline-first: Fast local access to Hadith and Quran data using SQLite
+* Sanad engine: Visualizes narrator chains and relationships
+* Hybrid search: Keyword + semantic search in one system
+
+---
+
 ## ⚙️ Tech Stack & 📊 Activity
 
 <table width="100%">
