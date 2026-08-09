@@ -42,11 +42,11 @@ Curated prompt collection for AI agents
 
 ---
 
-Hujjah — Local-First Scholarly Intelligence
-
-* Offline-first: Fast local access to Hadith and Quran data using SQLite
-* Sanad engine: Visualizes narrator chains and relationships
-* Hybrid search: Keyword + semantic search in one system
+### 🔹 Oblok
+- Multi-protocol service health monitor with sub-second response streaming (ApexCharts)
+- Real-time log aggregation + filtering via oblok-agent WebSocket shipper
+- Horizon/Redis queue control plane with auto incident generation on job failure
+- Deployment hooks + cron monitoring + custom alert rules → Slack/webhook dispatch
 
 ---
 
