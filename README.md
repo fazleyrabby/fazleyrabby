@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://fazleyrabbi.xyz">Portfolio</a> •
   <a href="mailto:fazley111@gmail.com">Email</a> •
-  <a href="https://drive.google.com/file/d/1-Z5hS-F8pjFAzKvGB2P51-dVarFPL9V3/view">CV</a> •
   <a href="https://linkedin.com/in/fazley-rabby">LinkedIn</a>
 </p>
 
